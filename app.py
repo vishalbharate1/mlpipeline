@@ -3,15 +3,15 @@ import sys
 from src.logger import logging
 from flask import Flask
 from src.exception import CustmizedException
-#from src.components.dataingenction import DataIngenction
+from src.components.datainjenction import DataIngenction
 
 app=Flask(__name__)
 
 @app.route('/', methods=['GET','POST'])
 def index():
     try:
-        #obj=DataIngenction()
-        #obj.initialise_data_injenction()
+        obj=DataIngenction()
+        obj.initialise_data_injenction()
         logging.info('Artifacts folder created with raw, train and test data')
         return 'Welcome to Versatile Commerce'
         
