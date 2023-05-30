@@ -1,0 +1,15 @@
+[ 2023-05-30 17:42:47,014 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-30 17:42:47,017 ] 186 werkzeug - INFO -  * Debugger PIN: 514-176-473
+[ 2023-05-30 17:43:06,733 ] 186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 17:43:06] "GET / HTTP/1.1" 200 -
+[ 2023-05-30 17:43:07,558 ] 186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 17:43:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-05-30 17:44:41,053 ] 186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 17:44:41] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-05-30 17:44:41,226 ] 186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 17:44:41] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-05-30 17:44:41,242 ] 186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 17:44:41] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-05-30 17:44:41,317 ] 186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 17:44:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-05-30 17:44:41,496 ] 186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 17:44:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-30 17:45:23,511 ] 186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 17:45:23] "POST / HTTP/1.1" 200 -
+[ 2023-05-30 17:45:32,976 ] 186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 17:45:32] "GET / HTTP/1.1" 200 -
+[ 2023-05-30 17:45:39,069 ] 186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 17:45:39] "POST / HTTP/1.1" 200 -
+[ 2023-05-30 17:45:40,991 ] 186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 17:45:40] "GET / HTTP/1.1" 200 -
+[ 2023-05-30 17:45:51,320 ] 186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 17:45:51] "POST / HTTP/1.1" 200 -
+[ 2023-05-30 17:45:55,731 ] 186 werkzeug - INFO - 127.0.0.1 - - [30/May/2023 17:45:55] "GET / HTTP/1.1" 200 -

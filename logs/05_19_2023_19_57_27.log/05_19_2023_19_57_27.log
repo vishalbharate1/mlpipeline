@@ -1,9 +1,0 @@
-[ 2023-05-19 19:57:29,167 ] 186 werkzeug - WARNING -  * Debugger is active!
-[ 2023-05-19 19:57:29,171 ] 186 werkzeug - INFO -  * Debugger PIN: 514-176-473
-[ 2023-05-19 19:57:31,645 ] 21 root - INFO - Data Ingenction Started
-[ 2023-05-19 19:57:31,645 ] 23 root - INFO - Data reading from pandas
-[ 2023-05-19 19:57:31,991 ] 25 root - INFO - Data reading completed
-[ 2023-05-19 19:57:32,678 ] 29 root - INFO - Data split in train and test
-[ 2023-05-19 19:57:33,430 ] 35 root - INFO - Data Ingestion completed
-[ 2023-05-19 19:57:33,438 ] 15 root - INFO - Artifacts folder created with raw, train and test data
-[ 2023-05-19 19:57:33,442 ] 186 werkzeug - INFO - 127.0.0.1 - - [19/May/2023 19:57:33] "GET / HTTP/1.1" 200 -
